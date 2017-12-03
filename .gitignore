@@ -1,7 +1,7 @@
 node_modules
 npm-debug.log
 
-
+webpack-3/demo/node_modules
 webpack-3/demo-01/node_modules
 webpack-3/demo-02/node_modules
 webpack-3/demo-03/node_modules
