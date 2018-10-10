@@ -1,5 +1,5 @@
-const greet = () => {
-  console.log('rails365');
+const init = () => {
+  console.log('hello webpack4');
 }
 
-greet();
+init();
